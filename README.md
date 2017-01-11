@@ -68,3 +68,7 @@ Below is an example configuration file.
 	"debug_log": false
 }
 ```
+
+## Random Notes:
+
+* [Veeam Slack Notifications](https://github.com/TheSageColleges/VeeamSlackNotifications)
