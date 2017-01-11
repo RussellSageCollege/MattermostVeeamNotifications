@@ -1,0 +1,7 @@
+{
+	"webhook": "https://mattermost.domain.com/...",
+	"channel": "#veeam",
+	"service_name": "VeeamBot",
+	"icon_url": "https://pbs.twimg.com/profile_images/464400939227435008/1mEYi6d5_400x400.jpeg",
+	"debug_log": false
+}
