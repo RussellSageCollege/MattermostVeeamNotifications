@@ -1,6 +1,6 @@
 # Depreciated
 
-This project has been depreciated in favor of [MelonSmasher/VeeamChatNotifications](https://github.com/MelonSmasher/VeeamChatNotifications) which supports Slack, Mattermost, Teams, and Discord.
+This project has been depreciated in favor of [MelonSmasher/Momentum](https://github.com/MelonSmasher/Momentum) which supports Slack, Mattermost, Teams, and Discord.
 
 # Veeam Backup and Restore Notification for Mattermost
 
